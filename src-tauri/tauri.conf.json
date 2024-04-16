@@ -19,9 +19,10 @@
     },
     "windows": [
       {
-        "title": "fs-tagger",
-        "width": 800,
-        "height": 600
+        "title": "FS Tagger",
+        "width": 1728,
+        "height": 1117,
+        "decorations": true
       }
     ],
     "security": {
